@@ -1,0 +1,9 @@
+{
+  "name": "arekvanschaijk/satis-json-generator",
+  "description": "Satis.json generator",
+  "autoload": {
+    "psr-4": {
+      "ArekvanSchaijk\\SatisJsonGenerator\\": "src/"
+    }
+  }
+}
